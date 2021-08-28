@@ -6,3 +6,4 @@ This is my demo file for learning git repo
 adding item
 1. item 1
 2. item 2
+i am working on this demo 
