@@ -11,3 +11,4 @@ adding item list in priti branch
 1. shoes
 2. jeans
 3. tops
+4. hair
