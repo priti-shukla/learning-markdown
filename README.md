@@ -28,3 +28,8 @@ this is my new added item list
   <img src="./images/test.png">
 </kbd>
 
+<kbd>
+  <img src="./images/test01.png">
+</kbd>
+
+[Go to demo](./demo.md)
