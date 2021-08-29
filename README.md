@@ -33,3 +33,24 @@ this is my new added item list
 </kbd>
 
 [Go to demo](./demo.md)
+
+```html
+<h1>Hello Nagpur</h1>
+```
+
+```python
+print("Hello Nagpur")
+```
+
+```c
+#include<stdio.h>
+#include<conio.h>
+main()
+{ 
+  print("Hello Nagpur")
+}
+```
+
+```shell
+echo "Hello Nagpur"
+```
