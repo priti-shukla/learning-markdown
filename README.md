@@ -7,8 +7,14 @@ adding item
 1. item 1
 2. item 2
 i am working on this demo 
-adding item list in priti branch
-1. shoes
-2. jeans
-3. tops
-4. hair
+# changes by tushar
+
+# changed in tushar branch
+adding items in tushar branch
+1. item 1
+2. item 2
+
+this is my new added item list
+1. jeans
+2. shoes
+3. shirts
