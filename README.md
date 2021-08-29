@@ -18,3 +18,8 @@ this is my new added item list
 1. jeans
 2. shoes
 3. shirts
+
+
+<kbd>
+  <img src="./images/demo.png">
+</kbd>
