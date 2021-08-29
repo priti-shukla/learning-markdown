@@ -23,3 +23,8 @@ this is my new added item list
 <kbd>
   <img src="./images/demo.png">
 </kbd>
+
+<kbd>
+  <img src="./images/test.png">
+</kbd>
+
